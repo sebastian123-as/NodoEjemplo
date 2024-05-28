@@ -1,0 +1,17 @@
+-- git clone link_Repositorio -> clona el repositorio remoto
+
+-- git branch -> Listar las ramas y ver la rama actual
+
+-- git checkout nombre_rama -> cambiar a la rama la cual le decimos
+
+-- git checkout -b nombre_nueva_rama -> crear una rama y cambiar automaticamente
+
+-- git add . | nombre_archivo -> agregar archivos o archivo al stage de la memoria
+
+-- git commit -m "nombre comentario" -> agregarle un comentario a los cambios hechos
+
+-- git push origin nombre_rama -> subir cambios de manera local hacia el repositorio
+
+-- git pull origin nombre_rama -> traer cambios de la rama la cual le especificamos
+
+-- git log -> Historial de commits
